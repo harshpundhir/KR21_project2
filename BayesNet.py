@@ -7,7 +7,7 @@ import itertools
 import pandas as pd
 from copy import deepcopy
 
-
+# Harsh here
 class BayesNet:
 
     def __init__(self) -> None:

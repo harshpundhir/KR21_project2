@@ -32,6 +32,7 @@ in the values, this leads to the following table:
 | True          | True          | False     | 0.3  |
 | True          | True          | True      | 0.7  |
 ##### Table 1: CPT of the "dog-out" node of the "dog_problem.BIFXML" example
+#CPT - Conditional probability table
 
 # The BayesNet Class
 Among the files of this project you can find the BayesNet class. We provided you with this class, so you don't need to 
